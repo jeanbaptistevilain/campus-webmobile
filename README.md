@@ -14,4 +14,4 @@
   - Introduction à Cordova : https://www.slideshare.net/ejlp12/intro-to-apache-cordova
   - Documentation Ionic v3 : https://ionicframework.com/docs/
   - Documentation outil en ligne de commande Ionic : https://ionicframework.com/docs/cli/
-  
+  - Tutoriel pour l'usage de NPM en tant que gestionnaire de tâches : https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633
