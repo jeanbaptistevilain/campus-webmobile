@@ -7,6 +7,7 @@
   - https://typescript.developpez.com/cours-tutoriels/
   - https://www.grafikart.fr/tutoriels/javascript/typescript-781
   - http://blog.soat.fr/2017/12/ionic-3-creez-votre-application-mobile/
+  - https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js/les-modules-node-js-et-npm
 
 
 ### En anglais
