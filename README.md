@@ -22,6 +22,7 @@
   - Documentation Ionic v3 : https://ionicframework.com/docs/
   - Documentation outil en ligne de commande Ionic : https://ionicframework.com/docs/cli/
   - Documentation "Ionic View" : https://ionicframework.com/docs/pro/view.html
+  - Documentation des templates Ionic : https://github.com/ionic-team/starters/tree/master/ionic-angular/official
   
 ### Angular
   - Documentation Angular v4 : https://v4.angular.io/api
