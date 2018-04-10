@@ -1,6 +1,6 @@
 # campus-webmobile
 
-## Resources
+## Tutoriels
 
 ### En français
   - Tutoriel sur l'outil de ligne de commande Ionic : https://openclassrooms.com/courses/developpez-une-application-mobile-multi-plateforme-avec-ionic/maitriser-la-ligne-de-commande
@@ -12,6 +12,19 @@
 
 ### En anglais
   - Introduction à Cordova : https://www.slideshare.net/ejlp12/intro-to-apache-cordova
+  - Tutoriel pour l'usage de NPM en tant que gestionnaire de tâches : https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633
+  - Tutoriel Angular v4 : https://v4.angular.io/tutorial
+  
+
+## Frameworks utilisés
+
+### Ionic
   - Documentation Ionic v3 : https://ionicframework.com/docs/
   - Documentation outil en ligne de commande Ionic : https://ionicframework.com/docs/cli/
-  - Tutoriel pour l'usage de NPM en tant que gestionnaire de tâches : https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633
+  - Documentation "Ionic View" : https://ionicframework.com/docs/pro/view.html
+  
+### Angular
+  - Documentation Angular v4 : https://v4.angular.io/api
+  
+### Cordova
+  - Documentation Apache Cordova : https://cordova.apache.org/docs/en/7.x/guide/overview/index.html
