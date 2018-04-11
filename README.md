@@ -35,6 +35,9 @@
   - Manuel d'utilisation : https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 
-## Liens utiles
+## Liens annexes :
+  - Intro au format JSON en français : https://www.alsacreations.com/article/lire/1675-json-stockage-leger-pratique-donnees-multitypes.html
   - Validation et construction de JSON en ligne : https://jsoneditoronline.org/
+  - Tutoriel Webpack en français : https://www.alsacreations.com/tuto/lire/1754-debuter-avec-webpack.html
+  - Intro SASS et préprocesseurs CSS : https://www.alsacreations.com/article/lire/1717-les-preprocesseurs-css-c-est-sensass.html
   
