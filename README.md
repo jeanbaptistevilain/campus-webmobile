@@ -16,7 +16,7 @@
   - Tutoriel Angular v4 : https://v4.angular.io/tutorial
   
 
-## Frameworks utilisés
+## Frameworks & langages utilisés
 
 ### Ionic
   - Documentation Ionic v3 : https://ionicframework.com/docs/
@@ -29,3 +29,12 @@
   
 ### Cordova
   - Documentation Apache Cordova : https://cordova.apache.org/docs/en/7.x/guide/overview/index.html
+
+### Typescript
+  - Introduction au langage : https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+  - Manuel d'utilisation : https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+
+## Liens utiles
+  - Validation et construction de JSON en ligne : https://jsoneditoronline.org/
+  
