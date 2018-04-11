@@ -29,6 +29,7 @@
   
 ### Cordova
   - Documentation Apache Cordova : https://cordova.apache.org/docs/en/7.x/guide/overview/index.html
+  - Installation plateforme Android : http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
 
 ### Typescript
   - Introduction au langage : https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
