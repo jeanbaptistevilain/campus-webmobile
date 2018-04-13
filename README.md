@@ -31,9 +31,10 @@
   - Documentation Apache Cordova : https://cordova.apache.org/docs/en/7.x/guide/overview/index.html
   - Installation plateforme Android : http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
 
-### Typescript
+### Typescript & Javascript
   - Introduction au langage : https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
   - Manuel d'utilisation : https://www.typescriptlang.org/docs/handbook/basic-types.html
+  - Tutoriel sur les "Promises" Javascript : https://developers.google.com/web/fundamentals/primers/promises
 
 
 ## Liens annexes :
